@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
+少时诵诗书1
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
        
         MagicalRecord.setupCoreDataStack(withAutoMigratingSqliteStoreNamed:MagicalRecord.defaultStoreName())
